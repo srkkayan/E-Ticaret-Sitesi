@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Product>
+
+<div class="row py-2">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3 col-md-6" >
+            <div class="row p-1">
+                <div class="col-12 p-1" style="background:none; border:0px solid #c79170;  border-radius:6px">
+                    <div class="card pt-1">
+                        <img src="@item.Picture" class="card-img-top rounded" />
+                        <div class="card-body">
+                            <div px-1>
+                                <p class="card-title h6 text-danger">@item.Name</p>
+                                <p class=px-1 style="color:black;">@item.Price ₺</p>
+                            </div>
+                        </div>
+                        <div>
+                            <a asp-action="Details" class="btn btn-primary form-control" style="padding-top:10px; height:50px; border:#c79170; background-color:#c79170;" asp-route-productId="@item.Id">DETAYLAR</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

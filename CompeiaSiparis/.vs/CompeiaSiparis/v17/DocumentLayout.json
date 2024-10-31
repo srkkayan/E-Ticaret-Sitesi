@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serkan Kayan\\source\\repos\\CompeiaSiparis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{198C02B6-3F8B-4AB3-95DA-18EF0DD95E28}|CompeiaSiparis.Models\\CompeiaSiparis.Models.csproj|c:\\users\\serkan kayan\\source\\repos\\compeiasiparis\\compeiasiparis.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C02B6-3F8B-4AB3-95DA-18EF0DD95E28}|CompeiaSiparis.Models\\CompeiaSiparis.Models.csproj|solutionrelative:compeiasiparis.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{198C02B6-3F8B-4AB3-95DA-18EF0DD95E28}|CompeiaSiparis.Models\\CompeiaSiparis.Models.csproj|c:\\users\\serkan kayan\\source\\repos\\compeiasiparis\\compeiasiparis.models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{198C02B6-3F8B-4AB3-95DA-18EF0DD95E28}|CompeiaSiparis.Models\\CompeiaSiparis.Models.csproj|solutionrelative:compeiasiparis.models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan Kayan\\source\\repos\\CompeiaSiparis\\CompeiaSiparis.Models\\Category.cs",
+              "RelativeDocumentMoniker": "CompeiaSiparis.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Serkan Kayan\\source\\repos\\CompeiaSiparis\\CompeiaSiparis.Models\\Category.cs",
+              "RelativeToolTip": "CompeiaSiparis.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:30:18.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Serkan Kayan\\source\\repos\\CompeiaSiparis\\CompeiaSiparis.Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "CompeiaSiparis.Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Serkan Kayan\\source\\repos\\CompeiaSiparis\\CompeiaSiparis.Models\\AppUser.cs",
+              "RelativeToolTip": "CompeiaSiparis.Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T17:28:55.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

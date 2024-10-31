@@ -1,0 +1,15 @@
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.csproj.AssemblyReference.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.AssemblyInfoInputs.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.AssemblyInfo.cs
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\bin\Debug\net6.0\CompeiaSiparis.Data.deps.json
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\bin\Debug\net6.0\CompeiaSiparis.Data.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\bin\Debug\net6.0\CompeiaSiparis.Data.pdb
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\bin\Debug\net6.0\CompeiaSiparis.Models.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\bin\Debug\net6.0\CompeiaSiparis.Models.pdb
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaS.5F0F72CF.Up2Date
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\refint\CompeiaSiparis.Data.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\CompeiaSiparis.Data.pdb
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.Data\obj\Debug\net6.0\ref\CompeiaSiparis.Data.dll

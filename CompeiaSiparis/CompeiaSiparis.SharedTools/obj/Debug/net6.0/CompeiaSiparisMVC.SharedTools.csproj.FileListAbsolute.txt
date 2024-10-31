@@ -1,0 +1,12 @@
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\bin\Debug\net6.0\CompeiaSiparisMVC.SharedTools.deps.json
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\bin\Debug\net6.0\CompeiaSiparisMVC.SharedTools.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\bin\Debug\net6.0\CompeiaSiparisMVC.SharedTools.pdb
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.csproj.AssemblyReference.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.AssemblyInfoInputs.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.AssemblyInfo.cs
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.csproj.CoreCompileInputs.cache
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\refint\CompeiaSiparisMVC.SharedTools.dll
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\CompeiaSiparisMVC.SharedTools.pdb
+C:\Users\Serkan Kayan\source\repos\CompeiaSiparis\CompeiaSiparis.SharedTools\obj\Debug\net6.0\ref\CompeiaSiparisMVC.SharedTools.dll

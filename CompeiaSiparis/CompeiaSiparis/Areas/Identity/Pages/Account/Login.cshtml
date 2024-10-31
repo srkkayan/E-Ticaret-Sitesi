@@ -1,0 +1,89 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Giriş Yap";
+}
+
+<div class="row d-flex justify-content-center" style="border:1px solid height:100% justify-content-center">
+    <h1 class="d-flex justify-content-center">@ViewData["Title"]</h1>
+    <div class="col-md-4">
+        <section>
+            <form id="account" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-floating py-2 col-12">
+                    <div class="card login-logout-card">
+                        <div class="card-header">
+                            <ul class="nav nav-tabs card-header-tabs">
+                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" />
+                    <label asp-for="Input.Email" class="form-label"></label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="form-floating py-2 col-12">
+                    <div class="card login-logout-card">
+                        <div class="card-header">
+                            <ul class="nav nav-tabs card-header-tabs">
+                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" />
+                    <label asp-for="Input.Password" class="form-label">Şifre</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </ul>
+                    </div>
+                    </div>
+                </div>
+                <div>
+                    <div class="checkbox">
+                        <label asp-for="Input.RememberMe" class="form-label">
+                            <input class="form-check-input" asp-for="Input.RememberMe" />
+                            @Html.DisplayNameFor(m => m.Input.RememberMe)
+                        </label>
+                    </div>
+                </div>
+                <div>
+                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary" style="background-color:#c79170; border:#c79170;">Giriş Yap</button>
+                </div>
+                <div>
+                    <p>
+                        <a id="forgot-password" class="text-danger" asp-page="./ForgotPassword">Şifrenizi mi unuttunuz?</a>
+                    </p>
+                    <p>
+                        <a asp-page="./Register" class="text-danger" asp-route-returnUrl="@Model.ReturnUrl">Yeni Kayıt Oluştur</a>
+                    </p>
+                    <p>
+                        <a id="resend-confirmation" class="text-danger" asp-page="./ResendEmailConfirmation">E-posta Onayını Yeniden Gönder</a>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+    
+        <section>
+            
+            @{
+                if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                {
+                 
+                }
+                else
+                {
+                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
+                        <div>
+                            <p>
+                                @foreach (var provider in Model.ExternalLogins!)
+                                {
+                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
+                                }
+                            </p>
+                        </div>
+                    </form>
+                }
+            }
+        </section>
+    
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
